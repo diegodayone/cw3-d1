@@ -1,0 +1,61 @@
+body {
+    background-color: #bdbd50;
+    padding-top: 80px;
+}
+
+p {
+    background: rgb(100,40, 255)
+}
+
+h2 {
+    color: red;
+}
+
+div h2 {
+    color: yellow;
+}
+
+#strangeP {
+    background: red;
+    border: 2px solid black;
+    color: white;
+    padding: 20px;
+}
+
+.subtitle {
+    padding:20px;
+    border: 2px solid green;
+    background: lime;
+    color: red;
+}
+
+.big-font {
+    font-size:40px;
+}
+
+.subtitle span {
+    border:5px solid purple;
+}
+
+.font-black {
+    color: black;
+}
+
+.font-green {
+    color:green;
+}
+
+#navbar {
+    background-color: green;
+    color:white;
+    border-bottom:1px solid white;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    position:fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    
+}
+
